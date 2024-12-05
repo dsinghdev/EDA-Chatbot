@@ -46,3 +46,20 @@ This project is an **Exploratory Data Analysis (EDA) Chatbot** built using **Str
    ```bash
    git clone https://github.com/yourusername/eda-chatbot.git
    cd eda-chatbot
+   ```
+2. **Create a Virtual Environment:**
+
+```bash
+python -m venv venv
+venv\Scripts\activate     # For Windows
+```
+3. **Install Dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+3. **Run the Application:**
+
+```bash
+streamlit run app.py
+```
