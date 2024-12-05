@@ -1,0 +1,5 @@
+.env
+.venv
+tmdb_5000_movies.csv
+temp_files
+__pycache__
